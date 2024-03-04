@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class FindDuplicateCharacters {
     public static void main(String[] args){
+
+        //3)  Java Program to Find Duplicate Characters in a String
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a sentence for counting the letters: ");
         String str = scan.nextLine();

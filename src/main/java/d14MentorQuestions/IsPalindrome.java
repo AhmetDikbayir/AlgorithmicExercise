@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class IsPalindrome {
     public static void main(String[] args) {
+
+        //2)  Java Program to Check Palindrome String
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter a word for checking whether it is a palindrome or not: ");
         String str = scan.next();
