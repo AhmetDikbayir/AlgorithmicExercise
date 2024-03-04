@@ -9,6 +9,8 @@ public class IsPalindrome {
         String str = scan.next();
         isPalindrome(str);
 
+        scan.close();
+
     }
 
     public static void isPalindrome(String str){
