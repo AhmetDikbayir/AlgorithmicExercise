@@ -5,7 +5,7 @@ import java.util.Set;
 public class d15MapExercises {
     public static void main(String[] args) {
 
-        //Find the sum of the greater than 3 length key's values
+        //Find the sum of values which has greater length then 3
 
         HashMap<String, Integer> stdNames = new HashMap<>();
 
